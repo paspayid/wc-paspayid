@@ -1,2 +1,2 @@
 # wc-paspayid
-Plugin Woocommerce Paspay Id
+Official Plugin Woocommerce Paspay Id
